@@ -1,14 +1,15 @@
-# Sobre
+
+## Sobre
 Sempre fui um entusiasta da tecnologia e cultivei um amor pelas exatas, gosto de ser proativo, continuamente me dedicando muito ao que faço. Busco meu primeiro emprego na área de Ciência de Dados, Análise de Dados ou Engenharia de Dados, procurando melhorar profissionalmente e pessoalmente com um constante aprendizado.
 
-- 🎓 Cursando Bacharelado em Matemática na UEL <br>
-- 🔬 Iniciação Científica em Machine Learning
-- 🗽 Inglês pelo Laboratório de Línguas na UEL <br>
-- 💻 Google Data Analytics Professional Certificate pela Coursera <br>
-- 👨‍🏫 Professor no Programa de Iniciação Científica (PIC) da OBMEP
-- 📈 Aprendendo sobre Ciência de Dados <br>
+-  Cursando Bacharelado em Matemática na UEL <br>
+-  Iniciação Científica em Machine Learning
+-  Inglês pelo Laboratório de Línguas na UEL <br>
+-  Google Data Analytics Professional Certificate pela Coursera <br>
+-  Professor no Programa de Iniciação Científica (PIC) da OBMEP
+-  Aprendendo sobre Ciência de Dados <br>
 
-## 💻 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
@@ -21,7 +22,7 @@ Sempre fui um entusiasta da tecnologia e cultivei um amor pelas exatas, gosto de
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-## 💡 Últimos Projetos
+## Últimos Projetos
 - ### [Utilizando Tidyverse Para Analizar Dados com R](https://github.com/DougAugSilva/Analise_de_dados_R)
 - ### [Criando um RDB com PostgreSQL e Analisando Vagas de Emprego](https://github.com/DougAugSilva/RDB_em_PostgreSQL)
 - ### [Estruturas de Dados Baseadas em Vetores no Python](https://github.com/DougAugSilva/Vetores_Estrutura_de_Dados_Python)
