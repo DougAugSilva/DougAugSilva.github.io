@@ -1,4 +1,4 @@
-
+# Douglas Augusto da Silva
 ## Sobre
 Sempre fui um entusiasta da tecnologia e cultivei um amor pelas exatas, gosto de ser proativo, continuamente me dedicando muito ao que faço. Busco meu primeiro emprego na área de Ciência de Dados, Análise de Dados ou Engenharia de Dados, procurando melhorar profissionalmente e pessoalmente com um constante aprendizado.
 
